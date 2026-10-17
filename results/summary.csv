@@ -1,0 +1,12 @@
+split,metric,value
+edge_hiding,CT PR-AUC,0.13307112638721572
+edge_hiding,CT Hits@10,0.07384760112888053
+edge_hiding,CT Hits@50,0.3231420507996237
+edge_hiding,CT MRR,0.04048220138648216
+edge_hiding,HT Hits@10,0.02150191262331387
+edge_hiding,HT Hits@50,0.10481175760016107
+edge_hiding,HT MRR,0.013666465477495506
+compound_disjoint,CT PR-AUC,0.05304965222984707
+compound_disjoint,CT Hits@10,0.05303030303030303
+compound_disjoint,CT Hits@50,0.20944741532976827
+compound_disjoint,CT MRR,0.02933351314635903

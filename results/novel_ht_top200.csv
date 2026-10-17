@@ -1,0 +1,201 @@
+herb,protein_id,symbol,protein_name,score
+Gymnema sylvestre,UNIPROT:P11217,PYGM,"Glycogen phosphorylase, muscle form",12.673
+Gymnema sylvestre,UNIPROT:P08235,NR3C2,Mineralocorticoid receptor,11.923
+Andrographis paniculata,UNIPROT:Q92831,KAT2B,Histone acetyltransferase KAT2B,11.81
+Centella asiatica,UNIPROT:Q13148,TARDBP,TAR DNA-binding protein 43,11.467
+Andrographis paniculata,UNIPROT:Q8NER1,TRPV1,Transient receptor potential cation channel subfamily V member 1,11.463
+Aegle marmelos,UNIPROT:Q16637,SMN1,Survival motor neuron protein,11.33
+Gymnema sylvestre,UNIPROT:P17066,HSPA6,Heat shock 70 kDa protein 6,11.177
+Gymnema sylvestre,UNIPROT:P10070,GLI2,Transcription activator GLI2,11.056
+Gymnema sylvestre,UNIPROT:P02511,CRYAB,Alpha-crystallin B chain,10.978
+Gymnema sylvestre,UNIPROT:P43320,CRYBB2,Beta-crystallin B2,10.976
+Syzygium cumini,UNIPROT:P19438,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,10.961
+Gymnema sylvestre,UNIPROT:P02489,CRYAA,Alpha-crystallin A chain,10.942
+Syzygium cumini,UNIPROT:P48061,CXCL12,Stromal cell-derived factor 1,10.923
+Gymnema sylvestre,UNIPROT:P07320,CRYGD,Gamma-crystallin D,10.906
+Gymnema sylvestre,UNIPROT:P07315,CRYGC,Gamma-crystallin C,10.871
+Gymnema sylvestre,UNIPROT:Q13885,TUBB2A,Tubulin beta-2A chain,10.867
+Gymnema sylvestre,UNIPROT:P68366,TUBA4A,Tubulin alpha-4A chain,10.853
+Gymnema sylvestre,UNIPROT:Q9BUF5,TUBB6,Tubulin beta-6 chain,10.823
+Gymnema sylvestre,UNIPROT:P08151,GLI1,Transcription activator GLI1,10.782
+Andrographis paniculata,UNIPROT:P30305,CDC25B,M-phase inducer phosphatase 2,10.626
+Embelia ribes,UNIPROT:P07437,TUBB,Tubulin beta chain,10.589
+Embelia ribes,UNIPROT:Q6PEY2,TUBA3E,Tubulin alpha-3E chain,10.578
+Syzygium aromaticum,UNIPROT:P35218,CA5A,"Carbonic anhydrase 5A, mitochondrial",10.556
+Embelia ribes,UNIPROT:Q9BQE3,TUBA1C,Tubulin alpha-1C chain,10.358
+Trigonella foenum-graecum,UNIPROT:Q8NER1,TRPV1,Transient receptor potential cation channel subfamily V member 1,10.353
+Syzygium cumini,UNIPROT:Q9UP65,PLA2G4C,Cytosolic phospholipase A2 gamma,10.351
+Syzygium cumini,UNIPROT:P53041,PPP5C,Serine/threonine-protein phosphatase 5,10.339
+Aegle marmelos,UNIPROT:Q92831,KAT2B,Histone acetyltransferase KAT2B,10.303
+Andrographis paniculata,UNIPROT:Q9NR56,MBNL1,Muscleblind-like protein 1,10.291
+Andrographis paniculata,UNIPROT:P09488,GSTM1,Glutathione S-transferase Mu 1,10.228
+Bombax ceiba,UNIPROT:P08235,NR3C2,Mineralocorticoid receptor,10.168
+Trianthema portulacastrum,UNIPROT:Q13148,TARDBP,TAR DNA-binding protein 43,10.08
+Gymnema sylvestre,UNIPROT:Q2M385,MPEG1,Macrophage-expressed gene 1 protein,10.071
+Syzygium aromaticum,UNIPROT:P07451,CA3,Carbonic anhydrase 3,10.068
+Bombax ceiba,UNIPROT:P10070,GLI2,Transcription activator GLI2,10.026
+Vitex negundo,UNIPROT:Q92831,KAT2B,Histone acetyltransferase KAT2B,10.007
+Andrographis paniculata,UNIPROT:Q9Y3Z3,SAMHD1,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,9.991
+Embelia ribes,UNIPROT:Q13885,TUBB2A,Tubulin beta-2A chain,9.983
+Embelia ribes,UNIPROT:P68366,TUBA4A,Tubulin alpha-4A chain,9.972
+Aegle marmelos,UNIPROT:P09488,GSTM1,Glutathione S-transferase Mu 1,9.955
+Embelia ribes,UNIPROT:Q9BUF5,TUBB6,Tubulin beta-6 chain,9.953
+Andrographis paniculata,UNIPROT:P18054,ALOX12,Polyunsaturated fatty acid lipoxygenase ALOX12,9.928
+Andrographis paniculata,UNIPROT:Q9Y468,L3MBTL1,Lethal(3)malignant brain tumor-like protein 1,9.874
+Trigonella foenum-graecum,UNIPROT:P16581,SELE,E-selectin,9.866
+Embelia ribes,UNIPROT:Q9BVA1,TUBB2B,Tubulin beta-2B chain,9.838
+Embelia ribes,UNIPROT:Q71U36,TUBA1A,Tubulin alpha-1A chain,9.83
+Embelia ribes,UNIPROT:Q13509,TUBB3,Tubulin beta-3 chain,9.829
+Aegle marmelos,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,9.792
+Andrographis paniculata,UNIPROT:P62826,RAN,GTP-binding nuclear protein Ran,9.784
+Andrographis paniculata,UNIPROT:P46063,RECQL,ATP-dependent DNA helicase Q1,9.734
+Syzygium aromaticum,UNIPROT:P37840,SNCA,Alpha-synuclein,9.632
+Syzygium aromaticum,UNIPROT:O60341,KDM1A,Lysine-specific histone demethylase 1A,9.626
+Bombax ceiba,UNIPROT:Q14145,KEAP1,Kelch-like ECH-associated protein 1,9.624
+Trianthema portulacastrum,UNIPROT:O75874,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,9.611
+Bombax ceiba,UNIPROT:P56545,CTBP2,C-terminal-binding protein 2,9.605
+Gymnema sylvestre,UNIPROT:P56545,CTBP2,C-terminal-binding protein 2,9.597
+Andrographis paniculata,UNIPROT:P37840,SNCA,Alpha-synuclein,9.595
+Gymnema sylvestre,UNIPROT:Q14145,KEAP1,Kelch-like ECH-associated protein 1,9.572
+Gymnema sylvestre,UNIPROT:Q9BVA1,TUBB2B,Tubulin beta-2B chain,9.504
+Terminalia paniculata,UNIPROT:P10275,AR,Androgen receptor,9.502
+Gymnema sylvestre,UNIPROT:Q13509,TUBB3,Tubulin beta-3 chain,9.497
+Syzygium aromaticum,UNIPROT:O75604,USP2,Ubiquitin carboxyl-terminal hydrolase 2,9.493
+Gymnema sylvestre,UNIPROT:Q71U36,TUBA1A,Tubulin alpha-1A chain,9.488
+Gymnema sylvestre,UNIPROT:Q6PEY2,TUBA3E,Tubulin alpha-3E chain,9.427
+Embelia ribes,UNIPROT:P68363,TUBA1B,Tubulin alpha-1B chain,9.381
+Andrographis paniculata,UNIPROT:P42345,MTOR,Serine/threonine-protein kinase mTOR,9.365
+Syzygium aromaticum,UNIPROT:Q9NR56,MBNL1,Muscleblind-like protein 1,9.334
+Cinnamomum verum,UNIPROT:Q13148,TARDBP,TAR DNA-binding protein 43,9.326
+Embelia ribes,UNIPROT:P0DPH7,TUBA3C,Tubulin alpha-3C chain,9.295
+Embelia ribes,UNIPROT:Q3ZCM7,TUBB8,Tubulin beta-8 chain,9.295
+Aegle marmelos,UNIPROT:O43175,PHGDH,D-3-phosphoglycerate dehydrogenase,9.283
+Bombax ceiba,UNIPROT:P19438,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,9.203
+Cinnamomum tamala,UNIPROT:Q9Y468,L3MBTL1,Lethal(3)malignant brain tumor-like protein 1,9.174
+Gymnema sylvestre,UNIPROT:Q8IUX4,APOBEC3F,DNA dC->dU-editing enzyme APOBEC-3F,9.166
+Bombax ceiba,UNIPROT:P48061,CXCL12,Stromal cell-derived factor 1,9.164
+Gymnema sylvestre,UNIPROT:Q9BQE3,TUBA1C,Tubulin alpha-1C chain,9.163
+Embelia ribes,UNIPROT:Q9H4B7,TUBB1,Tubulin beta-1 chain,9.137
+Embelia ribes,UNIPROT:P04350,TUBB4A,Tubulin beta-4A chain,9.129
+Gymnema sylvestre,UNIPROT:Q8WTS1,ABHD5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5,9.123
+Gymnema sylvestre,UNIPROT:P23469,PTPRE,Receptor-type tyrosine-protein phosphatase epsilon,9.12
+Syzygium aromaticum,UNIPROT:P55210,CASP7,Caspase-7,9.098
+Centella asiatica,UNIPROT:P17405,SMPD1,Sphingomyelin phosphodiesterase,9.097
+Bombax ceiba,UNIPROT:P08151,GLI1,Transcription activator GLI1,9.084
+Andrographis paniculata,UNIPROT:P10809,HSPD1,"60 kDa heat shock protein, mitochondrial",9.071
+Syzygium aromaticum,UNIPROT:O94956,SLCO2B1,Solute carrier organic anion transporter family member 2B1,9.063
+Andrographis paniculata,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,9.041
+Syzygium aromaticum,UNIPROT:P62826,RAN,GTP-binding nuclear protein Ran,9.016
+Gymnema sylvestre,UNIPROT:P18433,PTPRA,Receptor-type tyrosine-protein phosphatase alpha,8.991
+Syzygium aromaticum,UNIPROT:P51151,RAB9A,Ras-related protein Rab-9A,8.947
+Andrographis paniculata,UNIPROT:O14980,XPO1,Exportin-1,8.938
+Andrographis paniculata,UNIPROT:P05186,ALPL,"Alkaline phosphatase, tissue-nonspecific isozyme",8.924
+Gymnema sylvestre,UNIPROT:P19438,TNFRSF1A,Tumor necrosis factor receptor superfamily member 1A,8.912
+Aegle marmelos,UNIPROT:P11021,HSPA5,Endoplasmic reticulum chaperone BiP,8.894
+Gymnema sylvestre,UNIPROT:P48061,CXCL12,Stromal cell-derived factor 1,8.886
+Andrographis paniculata,UNIPROT:P55210,CASP7,Caspase-7,8.828
+Gymnema sylvestre,UNIPROT:P15559,NQO1,NAD(P)H dehydrogenase [quinone] 1,8.811
+Embelia ribes,UNIPROT:P29350,PTPN6,Tyrosine-protein phosphatase non-receptor type 6,8.793
+Centella asiatica,UNIPROT:P59534,TAS2R39,Taste receptor type 2 member 39,8.787
+Trianthema portulacastrum,UNIPROT:P51449,RORC,Nuclear receptor ROR-gamma,8.784
+Syzygium aromaticum,UNIPROT:P14902,IDO1,"Indoleamine 2,3-dioxygenase 1",8.782
+Bombax ceiba,UNIPROT:P51531,SMARCA2,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 2,8.778
+Syzygium cumini,UNIPROT:Q9P0Z9,PIPOX,Peroxisomal sarcosine oxidase,8.775
+Ocimum tenuiflorum,UNIPROT:Q13148,TARDBP,TAR DNA-binding protein 43,8.773
+Bombax ceiba,UNIPROT:P10721,KIT,Mast/stem cell growth factor receptor Kit,8.759
+Trigonella foenum-graecum,UNIPROT:O14980,XPO1,Exportin-1,8.699
+Trianthema portulacastrum,UNIPROT:Q07869,PPARA,Peroxisome proliferator-activated receptor alpha,8.686
+Cinnamomum tamala,UNIPROT:P55210,CASP7,Caspase-7,8.682
+Terminalia paniculata,UNIPROT:Q8NER1,TRPV1,Transient receptor potential cation channel subfamily V member 1,8.676
+Trigonella foenum-graecum,UNIPROT:P14151,SELL,L-selectin,8.671
+Cinnamomum tamala,UNIPROT:P38398,BRCA1,Breast cancer type 1 susceptibility protein,8.648
+Gymnema sylvestre,UNIPROT:Q16555,DPYSL2,Dihydropyrimidinase-related protein 2,8.644
+Aegle marmelos,UNIPROT:P14902,IDO1,"Indoleamine 2,3-dioxygenase 1",8.611
+Gymnema sylvestre,UNIPROT:Q13011,ECH1,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",8.594
+Terminalia paniculata,UNIPROT:O75496,GMNN,Geminin,8.584
+Syzygium cumini,UNIPROT:Q8WTS1,ABHD5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5,8.578
+Andrographis paniculata,UNIPROT:O43175,PHGDH,D-3-phosphoglycerate dehydrogenase,8.572
+Syzygium aromaticum,UNIPROT:Q9UNQ0,ABCG2,Broad substrate specificity ATP-binding cassette transporter ABCG2,8.57
+Gymnema sylvestre,UNIPROT:Q8NER1,TRPV1,Transient receptor potential cation channel subfamily V member 1,8.551
+Syzygium aromaticum,UNIPROT:P42345,MTOR,Serine/threonine-protein kinase mTOR,8.538
+Gymnema sylvestre,UNIPROT:P67936,TPM4,Tropomyosin alpha-4 chain,8.521
+Centella asiatica,UNIPROT:P51151,RAB9A,Ras-related protein Rab-9A,8.511
+Trigonella foenum-graecum,UNIPROT:P16109,SELP,P-selectin,8.494
+Trianthema portulacastrum,UNIPROT:Q13951,CBFB,Core-binding factor subunit beta,8.49
+Syzygium aromaticum,UNIPROT:P38398,BRCA1,Breast cancer type 1 susceptibility protein,8.467
+Trigonella foenum-graecum,UNIPROT:P14902,IDO1,"Indoleamine 2,3-dioxygenase 1",8.461
+Bombax ceiba,UNIPROT:Q13885,TUBB2A,Tubulin beta-2A chain,8.456
+Zingiber officinale,UNIPROT:P06746,POLB,DNA polymerase beta,8.455
+Bombax ceiba,UNIPROT:P68366,TUBA4A,Tubulin alpha-4A chain,8.445
+Andrographis paniculata,UNIPROT:P51151,RAB9A,Ras-related protein Rab-9A,8.383
+Cinnamomum tamala,UNIPROT:P06280,GLA,Alpha-galactosidase A,8.378
+Terminalia paniculata,UNIPROT:P35354,PTGS2,Prostaglandin G/H synthase 2,8.362
+Tribulus terrestris,UNIPROT:Q7Z2W7,TRPM8,Transient receptor potential cation channel subfamily M member 8,8.347
+Gymnema sylvestre,UNIPROT:Q3ZCM7,TUBB8,Tubulin beta-8 chain,8.328
+Gymnema sylvestre,UNIPROT:P0DPH7,TUBA3C,Tubulin alpha-3C chain,8.316
+Trigonella foenum-graecum,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,8.29
+Aegle marmelos,UNIPROT:Q8WTS6,SETD7,Histone-lysine N-methyltransferase SETD7,8.287
+Cinnamomum tamala,UNIPROT:O94925,GLS,"Glutaminase kidney isoform, mitochondrial",8.279
+Bombax ceiba,UNIPROT:Q8IUX4,APOBEC3F,DNA dC->dU-editing enzyme APOBEC-3F,8.277
+Terminalia paniculata,UNIPROT:P23219,PTGS1,Prostaglandin G/H synthase 1,8.273
+Aegle marmelos,UNIPROT:P08253,MMP2,72 kDa type IV collagenase,8.224
+Syzygium aromaticum,UNIPROT:Q9Y2D0,CA5B,"Carbonic anhydrase 5B, mitochondrial",8.213
+Centella asiatica,UNIPROT:P14902,IDO1,"Indoleamine 2,3-dioxygenase 1",8.169
+Gymnema sylvestre,UNIPROT:Q9H4B7,TUBB1,Tubulin beta-1 chain,8.168
+Gymnema sylvestre,UNIPROT:P04350,TUBB4A,Tubulin beta-4A chain,8.161
+Syzygium cumini,UNIPROT:Q16850,CYP51A1,Lanosterol 14-alpha demethylase,8.152
+Syzygium aromaticum,UNIPROT:Q16665,HIF1A,Hypoxia-inducible factor 1-alpha,8.147
+Bombax ceiba,UNIPROT:Q8WTS1,ABHD5,1-acylglycerol-3-phosphate O-acyltransferase ABHD5,8.126
+Gymnema sylvestre,UNIPROT:Q92698,RAD54L,DNA repair and recombination protein RAD54-like,8.103
+Trigonella foenum-graecum,UNIPROT:P10696,ALPG,"Alkaline phosphatase, germ cell type",8.1
+Andrographis paniculata,UNIPROT:P10696,ALPG,"Alkaline phosphatase, germ cell type",8.096
+Syzygium aromaticum,UNIPROT:P51692,STAT5B,Signal transducer and activator of transcription 5B,8.086
+Aegle marmelos,UNIPROT:P51151,RAB9A,Ras-related protein Rab-9A,8.071
+Bombax ceiba,UNIPROT:P23469,PTPRE,Receptor-type tyrosine-protein phosphatase epsilon,8.055
+Gymnema sylvestre,UNIPROT:Q16850,CYP51A1,Lanosterol 14-alpha demethylase,8.052
+Syzygium aromaticum,UNIPROT:Q99700,ATXN2,Ataxin-2,8.046
+Aegle marmelos,UNIPROT:P40763,STAT3,Signal transducer and activator of transcription 3,8.043
+Terminalia paniculata,UNIPROT:P02545,LMNA,Prelamin-A/C,8.033
+Trianthema portulacastrum,UNIPROT:Q9Y468,L3MBTL1,Lethal(3)malignant brain tumor-like protein 1,8.02
+Cinnamomum tamala,UNIPROT:P62826,RAN,GTP-binding nuclear protein Ran,8.015
+Embelia ribes,UNIPROT:P15559,NQO1,NAD(P)H dehydrogenase [quinone] 1,7.986
+Azadirachta indica,UNIPROT:Q8NER1,TRPV1,Transient receptor potential cation channel subfamily V member 1,7.956
+Embelia ribes,UNIPROT:Q9UGI9,PRKAG3,5'-AMP-activated protein kinase subunit gamma-3,7.922
+Syzygium aromaticum,UNIPROT:P07339,CTSD,Cathepsin D,7.911
+Aegle marmelos,UNIPROT:P16109,SELP,P-selectin,7.889
+Cinnamomum tamala,UNIPROT:P51151,RAB9A,Ras-related protein Rab-9A,7.889
+Cinnamomum tamala,UNIPROT:P42345,MTOR,Serine/threonine-protein kinase mTOR,7.888
+Embelia ribes,UNIPROT:P18433,PTPRA,Receptor-type tyrosine-protein phosphatase alpha,7.885
+Trianthema portulacastrum,UNIPROT:P17405,SMPD1,Sphingomyelin phosphodiesterase,7.878
+Embelia ribes,UNIPROT:P10586,PTPRF,Receptor-type tyrosine-protein phosphatase F,7.868
+Gymnema sylvestre,UNIPROT:Q14974,KPNB1,Importin subunit beta-1,7.864
+Aegle marmelos,UNIPROT:P52895,AKR1C2,Aldo-keto reductase family 1 member C2,7.862
+Bombax ceiba,UNIPROT:P17066,HSPA6,Heat shock 70 kDa protein 6,7.857
+Vitex negundo,UNIPROT:Q09472,EP300,Histone acetyltransferase p300,7.855
+Terminalia paniculata,UNIPROT:P83916,CBX1,Chromobox protein homolog 1,7.846
+Embelia ribes,UNIPROT:P11217,PYGM,"Glycogen phosphorylase, muscle form",7.833
+Cinnamomum verum,UNIPROT:O75604,USP2,Ubiquitin carboxyl-terminal hydrolase 2,7.831
+Syzygium aromaticum,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,7.809
+Syzygium aromaticum,UNIPROT:O14980,XPO1,Exportin-1,7.806
+Cinnamomum verum,UNIPROT:P15428,HPGD,15-hydroxyprostaglandin dehydrogenase [NAD(+)],7.801
+Embelia ribes,UNIPROT:Q7Z2H8,SLC36A1,Proton-coupled amino acid transporter 1,7.785
+Centella asiatica,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,7.778
+Andrographis paniculata,UNIPROT:Q13133,NR1H3,Oxysterols receptor LXR-alpha,7.768
+Embelia ribes,UNIPROT:P17706,PTPN2,Tyrosine-protein phosphatase non-receptor type 2,7.765
+Terminalia paniculata,UNIPROT:P22303,ACHE,Acetylcholinesterase,7.762
+Terminalia paniculata,UNIPROT:Q16236,NFE2L2,Nuclear factor erythroid 2-related factor 2,7.75
+Vitex negundo,UNIPROT:P10809,HSPD1,"60 kDa heat shock protein, mitochondrial",7.748
+Aegle marmelos,UNIPROT:P16581,SELE,E-selectin,7.719
+Syzygium aromaticum,UNIPROT:Q9Y253,POLH,DNA polymerase eta,7.719
+Syzygium aromaticum,UNIPROT:P07477,PRSS1,Serine protease 1,7.712
+Embelia ribes,UNIPROT:Q9Y478,PRKAB1,5'-AMP-activated protein kinase subunit beta-1,7.708
+Cyperus rotundus,UNIPROT:P10145,CXCL8,Interleukin-8,7.706
+Cinnamomum tamala,UNIPROT:Q00987,MDM2,E3 ubiquitin-protein ligase Mdm2,7.705
+Gymnema sylvestre,UNIPROT:P56817,BACE1,Beta-secretase 1,7.683
+Trigonella foenum-graecum,UNIPROT:O43175,PHGDH,D-3-phosphoglycerate dehydrogenase,7.671
+Gymnema sylvestre,UNIPROT:Q96P20,NLRP3,"NACHT, LRR and PYD domains-containing protein 3",7.671
+Terminalia paniculata,UNIPROT:P11473,VDR,Vitamin D3 receptor,7.668
+Embelia ribes,UNIPROT:Q13131,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,7.666
+Plumbago zeylanica,UNIPROT:Q03405,PLAUR,Urokinase plasminogen activator surface receptor,7.664
+Bombax ceiba,UNIPROT:Q96NY9,MUS81,Structure-specific endonuclease subunit MUS81,7.66
+Terminalia paniculata,UNIPROT:Q13148,TARDBP,TAR DNA-binding protein 43,7.659

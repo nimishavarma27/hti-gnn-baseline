@@ -1,0 +1,17 @@
+split,metric,baseline,tuned,change
+edge_hiding,CT PR-AUC,0.1754 +/- 0.0715,0.1862 +/- 0.0807,0.0108
+edge_hiding,CT Hits@10,0.2404 +/- 0.0826,0.2409 +/- 0.0826,0.0006
+edge_hiding,CT Hits@50,0.5135 +/- 0.0711,0.5093 +/- 0.0651,-0.0042
+edge_hiding,CT MRR,0.1261 +/- 0.0501,0.1270 +/- 0.0529,0.0008
+edge_hiding,HT PR-AUC,0.0675 +/- 0.0074,0.0677 +/- 0.0077,0.0001
+edge_hiding,HT Hits@10,0.0855 +/- 0.0199,0.0895 +/- 0.0192,0.004
+edge_hiding,HT Hits@50,0.2421 +/- 0.0411,0.2402 +/- 0.0385,-0.0019
+edge_hiding,HT MRR,0.0441 +/- 0.0109,0.0445 +/- 0.0118,0.0004
+compound_disjoint,CT PR-AUC,0.0769 +/- 0.0163,0.0729 +/- 0.0131,-0.0041
+compound_disjoint,CT Hits@10,0.1115 +/- 0.0182,0.1104 +/- 0.0147,-0.0011
+compound_disjoint,CT Hits@50,0.2999 +/- 0.0235,0.2998 +/- 0.0327,-0.0001
+compound_disjoint,CT MRR,0.0564 +/- 0.0074,0.0536 +/- 0.0073,-0.0029
+compound_disjoint,HT PR-AUC,0.0753 +/- 0.0265,0.0744 +/- 0.0292,-0.0009
+compound_disjoint,HT Hits@10,0.0644 +/- 0.0108,0.0591 +/- 0.0100,-0.0053
+compound_disjoint,HT Hits@50,0.1946 +/- 0.0337,0.1948 +/- 0.0286,0.0002
+compound_disjoint,HT MRR,0.0346 +/- 0.0093,0.0299 +/- 0.0027,-0.0046

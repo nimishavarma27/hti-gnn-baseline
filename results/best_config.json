@@ -1,0 +1,9 @@
+{
+ "lr": 0.001,
+ "d": 128,
+ "dropout": 0.2,
+ "wd": 1e-05,
+ "n_neg": 1,
+ "parts": false,
+ "ev_weight": false
+}

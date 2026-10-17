@@ -1,0 +1,14 @@
+# raw data, too large for github (unlabeled csv is 142 MB)
+*.csv
+!results/*.csv
+!ckpt/*.csv
+*.tsv
+
+# generated arrays, rebuilt by 01_prep
+prep/
+
+# editor / jupyter junk
+.ipynb_checkpoints/
+anaconda_projects/
+.~lock*
+__pycache__/
