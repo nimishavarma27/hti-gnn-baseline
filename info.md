@@ -20,7 +20,6 @@ Run in order: 01, 02, 03, 04, then 05, 06, 07 (these three only need prep/ and c
 
 ## Data
 
-Files are read from the parent folder (`Dokumenty/`), not from the repo.
 
 | File | Rows | Used for |
 |---|---|---|
@@ -235,35 +234,3 @@ Summary:
 - For compounds the model has seen (edge hiding), R-GCN clearly beats popularity on CT ranking, so it learns compound specific signal
 - For unseen compounds and at herb level, it does not beat popularity yet
 - Tuning, plant_part and evidence weights did not help
-
-## Known issues
-
-- 04 HT numbers are not valid, use 05
-- Edge hiding PR-AUC is inflated by a shortcut: about 71% of EH negatives come from the 1,593 compounds that have no labels at all, and a score that only checks whether a compound has training edges gets PR-AUC 0.303. Hits@K and MRR are not affected (they rank within one compound). Early stopping uses this PR-AUC
-- Compound disjoint is slightly optimistic: 5-13% of test compounds have an identical ECFP4 fingerprint to a training compound
-- Training edges are also message passing edges, so the model sees the pair it is predicting during training. The model overfits after about 20-40 epochs (train positives score 1.97 on average, test positives 0.79)
-- The model leans on popular targets (TYR, NFE2L2, CBX1, POLI appear in many top 10 lists)
-- GPU runs are not fully deterministic, differences under about 0.01 are noise
-
-## Next steps
-
-- Draw edge hiding negatives only from labeled compounds, early stop on filtered val MRR
-- Degree aware negative sampling so ranking popular targets high stops paying off
-- Separate message passing edges from supervision edges during training
-- Compare HT aggregation: max, mean, top-3 mean, noisy-OR
-- Better features: ESM-2 protein embeddings (public, from UniProt sequences) instead of AAC, herb features from the mean of their compounds' fingerprints
-- Scaffold split or dedup of identical fingerprints for compound disjoint
-- Other models: HAN, HGT, KG embeddings (TransE, RotatE, ComplEx), MAMGN-HTI
-
-## Other files
-
-- `cdmmm_scraper.ipynb`, `dataset_visualization.ipynb`, `interactive_visualization.ipynb`: earlier dataset work, not part of the GNN pipeline
-- `hti_out/figures/`: dataset figures
-
-## Requirements
-
-```
-torch (CUDA build), numpy, pandas, scikit-learn, matplotlib, jupyter
-```
-
-On Windows, if torch fails with `OMP: Error #15`, set `KMP_DUPLICATE_LIB_OK=TRUE` before starting Jupyter.
