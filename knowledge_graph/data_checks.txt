@@ -1,0 +1,49 @@
+== row counts
+      herbs.tsv                               62 rows
+      compounds.tsv                        2,319 rows
+      compound_features_ecfp4.csv          2,319 rows
+      target_features_aac.csv              1,341 rows
+      herb_compound_edges.tsv              8,396 rows
+      compound_target_labeled.csv         14,166 rows
+      herb_compound_target.csv           126,830 rows
+      compound_target_unlabeled.csv    3,095,613 rows
+== entities
+OK    herbs.tsv herb_id unique (62 herbs)
+OK    ecfp compound_id unique (2319 compounds)
+OK    ecfp has 2048 bit columns (2048)
+OK    ecfp values are all 0/1
+OK    compounds.tsv compound_id unique (2319)
+OK    compounds.tsv covers exactly the ecfp compound universe
+OK    aac protein_id unique (1341 targets)
+OK    protein_id = UNIPROT:<accession> for every target
+OK    aac rows sum to 1 (min 1.000000, max 1.000000)
+== herb_compound_edges.tsv
+OK    every herb_id is in herbs.tsv
+OK    every compound_id is in the compound universe
+OK    compound_id matches IMPPAT_Phytochemical_identifier
+OK    herb_id matches IMPPAT_PLANT:<Plant_identifier>
+      8396 rows -> 5005 unique herb-compound pairs, 62 herbs, 2319 compounds
+OK    every compound belongs to at least one herb
+OK    every herb has at least one compound
+== compound_target_labeled.csv
+OK    no duplicate compound-target pairs
+OK    every label is 1 (positives only)
+OK    every compound_id is in the compound universe
+OK    every protein_id is in the target universe
+OK    every target has at least one known compound
+      14166 pairs, 726 compounds with a known target, 1593 compounds with none
+== compound_target_unlabeled.csv
+OK    no duplicate unlabeled pairs
+OK    all unlabeled ids are in the universes
+OK    unlabeled and labeled pairs do not overlap
+OK    labeled + unlabeled = every compound x target pair (14166 + 3095613 = 2319 x 1341 = 3109779)
+== herb_compound_target.csv
+OK    every (herb, compound) is a real herb-compound edge
+OK    every (compound, target) is a labeled positive
+OK    herb-target pairs equal the H-C x C-T join (24835 vs 24835)
+      60 herbs and 726 compounds appear; 24835 unique herb-target pairs (derived, not added as edges)
+OK    all 3760 node ids unique
+OK    all 19233 edges point to existing nodes
+OK    all node labels unique
+OK    no duplicate edges
+== extraction: 3760 nodes {'compound': 2319, 'target': 1341, 'herb': 62, 'plant_family': 38}, 19233 edges (contains 5005, binds_target 14166, belongs_to_family 62)

@@ -12,3 +12,9 @@ prep/
 anaconda_projects/
 .~lock*
 __pycache__/
+
+knowledge_graph/graphify-out/graph.html
+knowledge_graph/graphify-out/graph.json
+knowledge_graph/graphify-out/.graphify_*
+knowledge_graph/graphify-out/cost.json
+knowledge_graph/graphify-out/manifest.json
